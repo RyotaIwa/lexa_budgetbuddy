@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Grocery Essentials",
+      "description": "Basic food and household items for daily needs.",
+      "category": "Food",
+      "price": 500.00,
+      "currency": "PHP",
+      "image": "assets/images/grocery.png"
+    },
+    {
+      "id": 2,
+      "name": "Monthly Internet",
+      "description": "Monthly internet subscription for home use.",
+      "category": "Bills",
+      "price": 1499.00,
+      "currency": "PHP",
+      "image": "assets/images/internet.png"
+    },
+    {
+      "id": 3,
+      "name": "Transportation Pass",
+      "description": "Budget allocation for daily transportation expenses.",
+      "category": "Transportation",
+      "price": 1000.00,
+      "currency": "PHP",
+      "image": "assets/images/transportation.png"
+    },
+    {
+      "id": 4,
+      "name": "School Supplies",
+      "description": "Notebooks, pens, paper, and other school essentials.",
+      "category": "Education",
+      "price": 350.00,
+      "currency": "PHP",
+      "image": "assets/images/school_supplies.png"
+    },
+    {
+      "id": 5,
+      "name": "Mobile Load",
+      "description": "Prepaid mobile load for calls, texts, and internet data.",
+      "category": "Communication",
+      "price": 100.00,
+      "currency": "PHP",
+      "image": "assets/images/mobile_load.png"
+    },
+    {
+      "id": 6,
+      "name": "Coffee & Snacks",
+      "description": "Budget for coffee, snacks, and small food purchases.",
+      "category": "Food",
+      "price": 150.00,
+      "currency": "PHP",
+      "image": "assets/images/coffee.png"
+    },
+    {
+      "id": 7,
+      "name": "Emergency Fund",
+      "description": "Savings allocation for unexpected expenses.",
+      "category": "Savings",
+      "price": 1000.00,
+      "currency": "PHP",
+      "image": "assets/images/emergency_fund.png"
+    },
+    {
+      "id": 8,
+      "name": "Entertainment",
+      "description": "Budget allocation for movies, games, and recreational activities.",
+      "category": "Entertainment",
+      "price": 500.00,
+      "currency": "PHP",
+      "image": "assets/images/entertainment.png"
+    }
+  ]
+}
